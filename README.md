@@ -5,3 +5,5 @@ The goal of this project was to create a real time bus tracker using the MTA API
 In order to use this project, you can fork and clone this repository to make any updates.
 ## Future Improvements:
 In the future, I'd like to add permanent markers on the map for the bus stops on the route. I'd also like to find a public API for a different city to recreate this project. 
+## License:
+This project comes from a course provided by Emeritus X MIT.
